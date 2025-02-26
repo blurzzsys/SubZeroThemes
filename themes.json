@@ -1,1 +1,8 @@
-test
+{
+    "BlurzzTheme": {
+      "imglink": "https://example.com/example.jpg"
+    },
+    "SakpotTheme":{
+        "imglink": "https://example.com/example.jpg"
+    }
+  }
