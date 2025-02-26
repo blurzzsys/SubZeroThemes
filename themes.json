@@ -1,8 +1,23 @@
 {
-    "BlurzzTheme": {
+    "Blurzz Theme": {
       "imglink": "https://getsubz.xyz/themes/Blurzzy.png"
     },
-    "SakpotTheme":{
+    "Sakpot Theme":{
         "imglink": "https://getsubz.xyz/themes/sakpog.png"
+        },
+     "Bill Gates":{
+        "imglink": "https://getsubz.xyz/themes/billgates.png"
+         },
+     "Sha EK 1":{
+        "imglink": "https://getsubz.xyz/themes/shaek1.jpg"
+           },
+     "Sha EK 2":{
+        "imglink": "https://getsubz.xyz/themes/shaek2.jpg"
+          },
+     "Space":{
+        "imglink": "https://getsubz.xyz/themes/space.jfif"
+            },
+     "City":{
+        "imglink": "https://getsubz.xyz/themes/city.png"
     }
   }
